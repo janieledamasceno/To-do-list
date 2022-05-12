@@ -5,5 +5,5 @@ Este projeto foi desenvolvido utilizando:
 - CSS;
 - JavaScript <br>
 
-Acrescentei um estilo voltado para um tema do qual gosto muito: O Pequeno Príncipe, que inclusive também foi utilizado na folha de estilos do Decodificador de Textos.
+Acrescentei um estilo voltado para um tema do qual gosto muito: O Pequeno Príncipe, que inclusive também foi utilizado na folha de estilos do Decodificador de Textos. <br>
 Ainda pretendo realizar alguns ajustes para ficar do jeito que desejo.
