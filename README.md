@@ -1,9 +1,9 @@
 # To-do-list
 ## Criando meu primeiro projeto To-do-list.
-Projeto desenvolvido utilizando:
+Este projeto foi desenvolvido utilizando:
 - HTML;
 - CSS;
 - JavaScript <br>
 
-Acrescentei um estilo voltado para a temática da qual gosto muito, e que já foi utilizada em outro projeto aqui no GitHub: O Pequeno Príncipe.
+Acrescentei um estilo voltado para um tema do qual gosto muito: O Pequeno Príncipe, que inclusive também foi utilizado na folha de estilos do Decodificador de Textos.
 Ainda pretendo realizar alguns ajustes para ficar do jeito que desejo.
